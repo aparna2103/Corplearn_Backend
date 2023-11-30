@@ -13,6 +13,8 @@ To easily set up and run CorpLearn, a script named `run_app.sh` is provided. Thi
 
 ```
 In case of linux and MAC, run ./run_app.sh
+In case of Windows, run ./run_app.bat
+For production, ./run_app_prod.sh
 ```
 
 The `run_app.sh` script includes the following operations:
