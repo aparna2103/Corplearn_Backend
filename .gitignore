@@ -1,0 +1,8 @@
+myenv/
+media/
+htmlcov/
+/.coverage
+/db.sqlite3
+corpLearnApp/logs
+.idea
+.git
