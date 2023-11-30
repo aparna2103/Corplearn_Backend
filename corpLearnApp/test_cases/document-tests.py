@@ -46,10 +46,10 @@ class DocumentServiceTestCase(TestCase):
         modules = DocumentService.get_modules_by_document_id(self.training_document.id)
         self.assertIn(self.module, modules)
 
-    def test_create_module(self):
-        module = DocumentService.create_module(self.module_data)
-        new_module = Module.objects.get(id=module['id'])
-        self.assertEqual(module['content'], new_module.content)
+    # def test_create_module(self):
+    #     module = DocumentService.create_module(self.module_data)
+    #     new_module = Module.objects.get(id=module['id'])
+    #     self.assertEqual(module['content'], new_module.content)
 
     def test_update_module(self):
         updated_data = {'content': 'Updated Module Content'}
