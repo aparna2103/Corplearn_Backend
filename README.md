@@ -12,7 +12,7 @@ To run CorpLearn, ensure your system meets the following requirements:
 To easily set up and run CorpLearn, a script named `run_app.sh` is provided. This script automates the processes of running the server, testing, and code coverage. To execute the script, use the following command in your terminal:
 
 ```
-./run_app.sh
+In case of linux and MAC, run ./run_app.sh
 ```
 
 The `run_app.sh` script includes the following operations:
