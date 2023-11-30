@@ -3,7 +3,7 @@ argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 asgiref==3.7.2
 attrs==22.1.0
-backports.zoneinfo==0.2.1
+# backports.zoneinfo==0.2.1
 bidict==0.22.0
 cachelib==0.10.1
 certifi==2022.9.24
