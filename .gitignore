@@ -2,6 +2,5 @@ myenv/
 media/
 htmlcov/
 /.coverage
-/db.sqlite3
 .idea
 .git

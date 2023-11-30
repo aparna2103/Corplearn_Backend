@@ -16,7 +16,7 @@
 # pip install -r requirements.txt
 
 # Apply migrations
-python manage.py migrate
+# python manage.py migrate
 
 # Running the tests with coverage
 echo "Running tests with coverage..."
