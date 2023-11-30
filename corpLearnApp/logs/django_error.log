@@ -1,0 +1,296 @@
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "C:\Users\Sri Harsha\Desktop\Academics\Sem 3\613\code\ENPM613_CorpLearn_Backend\corpLearnApp\authentication_middleware.py", line 24, in process_request
+    raise AuthenticationFailed('Authentication failed')
+rest_framework_simplejwt.exceptions.AuthenticationFailed: {'detail': ErrorDetail(string='Authentication failed', code='authentication_failed'), 'code': ErrorDetail(string='authentication_failed', code='authentication_failed')}
+"GET / HTTP/1.1" 500 72283
+Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "C:\Users\Sri Harsha\Desktop\Academics\Sem 3\613\code\ENPM613_CorpLearn_Backend\corpLearnApp\authentication_middleware.py", line 24, in process_request
+    raise AuthenticationFailed('Authentication failed')
+rest_framework_simplejwt.exceptions.AuthenticationFailed: {'detail': ErrorDetail(string='Authentication failed', code='authentication_failed'), 'code': ErrorDetail(string='authentication_failed', code='authentication_failed')}
+"GET /favicon.ico HTTP/1.1" 500 72197
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "C:\Users\Sri Harsha\Desktop\Academics\Sem 3\613\code\ENPM613_CorpLearn_Backend\corpLearnApp\authentication_middleware.py", line 24, in process_request
+    raise AuthenticationFailed('Authentication failed')
+rest_framework_simplejwt.exceptions.AuthenticationFailed: {'detail': ErrorDetail(string='Authentication failed', code='authentication_failed'), 'code': ErrorDetail(string='authentication_failed', code='authentication_failed')}
+"GET / HTTP/1.1" 500 72420
+Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "C:\Users\Sri Harsha\Desktop\Academics\Sem 3\613\code\ENPM613_CorpLearn_Backend\corpLearnApp\authentication_middleware.py", line 24, in process_request
+    raise AuthenticationFailed('Authentication failed')
+rest_framework_simplejwt.exceptions.AuthenticationFailed: {'detail': ErrorDetail(string='Authentication failed', code='authentication_failed'), 'code': ErrorDetail(string='authentication_failed', code='authentication_failed')}
+"GET /favicon.ico HTTP/1.1" 500 72197
+Internal Server Error: /swagger
+Traceback (most recent call last):
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "C:\Users\Sri Harsha\Desktop\Academics\Sem 3\613\code\ENPM613_CorpLearn_Backend\corpLearnApp\authentication_middleware.py", line 24, in process_request
+    raise AuthenticationFailed('Authentication failed')
+rest_framework_simplejwt.exceptions.AuthenticationFailed: {'detail': ErrorDetail(string='Authentication failed', code='authentication_failed'), 'code': ErrorDetail(string='authentication_failed', code='authentication_failed')}
+"GET /swagger HTTP/1.1" 500 72353
+Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "C:\Users\Sri Harsha\Desktop\Academics\Sem 3\613\code\ENPM613_CorpLearn_Backend\corpLearnApp\authentication_middleware.py", line 24, in process_request
+    raise AuthenticationFailed('Authentication failed')
+rest_framework_simplejwt.exceptions.AuthenticationFailed: {'detail': ErrorDetail(string='Authentication failed', code='authentication_failed'), 'code': ErrorDetail(string='authentication_failed', code='authentication_failed')}
+"GET /favicon.ico HTTP/1.1" 500 72204
+Internal Server Error: /swagger
+Traceback (most recent call last):
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "C:\Users\Sri Harsha\Desktop\Academics\Sem 3\613\code\ENPM613_CorpLearn_Backend\corpLearnApp\authentication_middleware.py", line 24, in process_request
+    raise AuthenticationFailed('Authentication failed')
+rest_framework_simplejwt.exceptions.AuthenticationFailed: {'detail': ErrorDetail(string='Authentication failed', code='authentication_failed'), 'code': ErrorDetail(string='authentication_failed', code='authentication_failed')}
+"GET /swagger HTTP/1.1" 500 72490
+Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "C:\Users\Sri Harsha\Desktop\Academics\Sem 3\613\code\ENPM613_CorpLearn_Backend\corpLearnApp\authentication_middleware.py", line 24, in process_request
+    raise AuthenticationFailed('Authentication failed')
+rest_framework_simplejwt.exceptions.AuthenticationFailed: {'detail': ErrorDetail(string='Authentication failed', code='authentication_failed'), 'code': ErrorDetail(string='authentication_failed', code='authentication_failed')}
+"GET /favicon.ico HTTP/1.1" 500 72204
+Internal Server Error: /swagger
+Traceback (most recent call last):
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "C:\Users\Sri Harsha\Desktop\Academics\Sem 3\613\code\ENPM613_CorpLearn_Backend\corpLearnApp\authentication_middleware.py", line 24, in process_request
+    raise AuthenticationFailed('Authentication failed')
+rest_framework_simplejwt.exceptions.AuthenticationFailed: {'detail': ErrorDetail(string='Authentication failed', code='authentication_failed'), 'code': ErrorDetail(string='authentication_failed', code='authentication_failed')}
+"GET /swagger HTTP/1.1" 500 72490
+Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "C:\Users\Sri Harsha\Desktop\Academics\Sem 3\613\code\ENPM613_CorpLearn_Backend\corpLearnApp\authentication_middleware.py", line 24, in process_request
+    raise AuthenticationFailed('Authentication failed')
+rest_framework_simplejwt.exceptions.AuthenticationFailed: {'detail': ErrorDetail(string='Authentication failed', code='authentication_failed'), 'code': ErrorDetail(string='authentication_failed', code='authentication_failed')}
+"GET /favicon.ico HTTP/1.1" 500 72204
+Internal Server Error: /corpLearn
+Traceback (most recent call last):
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "C:\Users\Sri Harsha\Desktop\Academics\Sem 3\613\code\ENPM613_CorpLearn_Backend\corpLearnApp\authentication_middleware.py", line 24, in process_request
+    raise AuthenticationFailed('Authentication failed')
+rest_framework_simplejwt.exceptions.AuthenticationFailed: {'detail': ErrorDetail(string='Authentication failed', code='authentication_failed'), 'code': ErrorDetail(string='authentication_failed', code='authentication_failed')}
+"GET /corpLearn HTTP/1.1" 500 72373
+Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "C:\Users\Sri Harsha\Desktop\Academics\Sem 3\613\code\ENPM613_CorpLearn_Backend\corpLearnApp\authentication_middleware.py", line 24, in process_request
+    raise AuthenticationFailed('Authentication failed')
+rest_framework_simplejwt.exceptions.AuthenticationFailed: {'detail': ErrorDetail(string='Authentication failed', code='authentication_failed'), 'code': ErrorDetail(string='authentication_failed', code='authentication_failed')}
+"GET /favicon.ico HTTP/1.1" 500 72206
+Internal Server Error: /admin
+Traceback (most recent call last):
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "C:\Users\Sri Harsha\Desktop\Academics\Sem 3\613\code\ENPM613_CorpLearn_Backend\corpLearnApp\authentication_middleware.py", line 24, in process_request
+    raise AuthenticationFailed('Authentication failed')
+rest_framework_simplejwt.exceptions.AuthenticationFailed: {'detail': ErrorDetail(string='Authentication failed', code='authentication_failed'), 'code': ErrorDetail(string='authentication_failed', code='authentication_failed')}
+"GET /admin HTTP/1.1" 500 72333
+Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "C:\Users\Sri Harsha\Desktop\Academics\Sem 3\613\code\ENPM613_CorpLearn_Backend\corpLearnApp\authentication_middleware.py", line 24, in process_request
+    raise AuthenticationFailed('Authentication failed')
+rest_framework_simplejwt.exceptions.AuthenticationFailed: {'detail': ErrorDetail(string='Authentication failed', code='authentication_failed'), 'code': ErrorDetail(string='authentication_failed', code='authentication_failed')}
+"GET /favicon.ico HTTP/1.1" 500 72202
+Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "C:\Users\Sri Harsha\Desktop\Academics\Sem 3\613\code\ENPM613_CorpLearn_Backend\corpLearnApp\authentication_middleware.py", line 24, in process_request
+    raise AuthenticationFailed('Authentication failed')
+rest_framework_simplejwt.exceptions.AuthenticationFailed: {'detail': ErrorDetail(string='Authentication failed', code='authentication_failed'), 'code': ErrorDetail(string='authentication_failed', code='authentication_failed')}
+"GET /favicon.ico HTTP/1.1" 500 72514
+Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "C:\Users\Sri Harsha\Desktop\Academics\Sem 3\613\code\ENPM613_CorpLearn_Backend\corpLearnApp\authentication_middleware.py", line 24, in process_request
+    raise AuthenticationFailed('Authentication failed')
+rest_framework_simplejwt.exceptions.AuthenticationFailed: {'detail': ErrorDetail(string='Authentication failed', code='authentication_failed'), 'code': ErrorDetail(string='authentication_failed', code='authentication_failed')}
+"GET /favicon.ico HTTP/1.1" 500 72524
+Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "C:\Users\Sri Harsha\Desktop\Academics\Sem 3\613\code\ENPM613_CorpLearn_Backend\corpLearnApp\authentication_middleware.py", line 24, in process_request
+    raise AuthenticationFailed('Authentication failed')
+rest_framework_simplejwt.exceptions.AuthenticationFailed: {'detail': ErrorDetail(string='Authentication failed', code='authentication_failed'), 'code': ErrorDetail(string='authentication_failed', code='authentication_failed')}
+"GET /favicon.ico HTTP/1.1" 500 72524
+Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "C:\Users\Sri Harsha\Desktop\Academics\Sem 3\613\code\ENPM613_CorpLearn_Backend\corpLearnApp\authentication_middleware.py", line 24, in process_request
+    raise AuthenticationFailed('Authentication failed')
+rest_framework_simplejwt.exceptions.AuthenticationFailed: {'detail': ErrorDetail(string='Authentication failed', code='authentication_failed'), 'code': ErrorDetail(string='authentication_failed', code='authentication_failed')}
+"GET /favicon.ico HTTP/1.1" 500 72524
+Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "C:\Users\Sri Harsha\Desktop\Academics\Sem 3\613\code\ENPM613_CorpLearn_Backend\corpLearnApp\authentication_middleware.py", line 24, in process_request
+    raise AuthenticationFailed('Authentication failed')
+rest_framework_simplejwt.exceptions.AuthenticationFailed: {'detail': ErrorDetail(string='Authentication failed', code='authentication_failed'), 'code': ErrorDetail(string='authentication_failed', code='authentication_failed')}
+"GET /favicon.ico HTTP/1.1" 500 72524
+Internal Server Error: /corpLearn/login
+"POST /corpLearn/login HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/users/create
+Traceback (most recent call last):
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Sri Harsha\Desktop\python_3_10_env\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "C:\Users\Sri Harsha\Desktop\Academics\Sem 3\613\code\ENPM613_CorpLearn_Backend\corpLearnApp\authentication_middleware.py", line 24, in process_request
+    raise AuthenticationFailed('Authentication failed')
+rest_framework_simplejwt.exceptions.AuthenticationFailed: {'detail': ErrorDetail(string='Authentication failed', code='authentication_failed'), 'code': ErrorDetail(string='authentication_failed', code='authentication_failed')}
+"POST /corpLearn/users/create HTTP/1.1" 500 21782
+Internal Server Error: /corpLearn/users/create
+"POST /corpLearn/users/create HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/users/create
+"POST /corpLearn/users/create HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/courses/employee-courses/create
+"POST /corpLearn/courses/employee-courses/create HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/courses/employee-courses/create
+"POST /corpLearn/courses/employee-courses/create HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/courses/employee-courses/create
+"POST /corpLearn/courses/employee-courses/create HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/users/update/8
+"PUT /corpLearn/users/update/8 HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/documents/modules/create
+"POST /corpLearn/documents/modules/create HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/documents/modules/create
+"POST /corpLearn/documents/modules/create HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/documents/modules/create
+"POST /corpLearn/documents/modules/create HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/courses/employee-courses/update/11
+"PUT /corpLearn/courses/employee-courses/update/11 HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/courses/employee-courses/update/11
+"PUT /corpLearn/courses/employee-courses/update/11 HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/courses/employee-courses/update/11
+"PUT /corpLearn/courses/employee-courses/update/11 HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/courses/update/ENPM665
+"PUT /corpLearn/courses/update/ENPM665 HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/courses/update/ENPM665
+"PUT /corpLearn/courses/update/ENPM665 HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/courses/update/ENPM665
+"PUT /corpLearn/courses/update/ENPM665 HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/courses/update/ENPM665
+"PUT /corpLearn/courses/update/ENPM665 HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/courses/update/ENPM665
+"PUT /corpLearn/courses/update/ENPM665 HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/courses/update/ENPM665
+"PUT /corpLearn/courses/update/ENPM665 HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/courses/update/ENPM665
+"PUT /corpLearn/courses/update/ENPM665 HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/courses/update/ENPM665
+"PUT /corpLearn/courses/update/ENPM665 HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/courses/update/ENPM665
+"PUT /corpLearn/courses/update/ENPM665 HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/courses/update/ENPM665
+"PUT /corpLearn/courses/update/ENPM665 HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/courses/update/ENPM665
+"PUT /corpLearn/courses/update/ENPM665 HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/users/discussion-forums/create
+"POST /corpLearn/users/discussion-forums/create HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/users/discussion-forums/create
+"POST /corpLearn/users/discussion-forums/create HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/users/discussion-forums/create
+"POST /corpLearn/users/discussion-forums/create HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/users/discussion-forums/create
+"POST /corpLearn/users/discussion-forums/create HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/users/discussion-forums/ENPM808L
+"GET /corpLearn/users/discussion-forums/ENPM808L HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/users/discussion-forum-questions/create
+"POST /corpLearn/users/discussion-forum-questions/create HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/users/discussion-forum-questions/1
+"GET /corpLearn/users/discussion-forum-questions/1 HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/users/discussion-forum-questions/1
+"GET /corpLearn/users/discussion-forum-questions/1 HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/users/discussion-forum-answers/create
+"POST /corpLearn/users/discussion-forum-answers/create HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/users/discussion-forum-answers/create
+"POST /corpLearn/users/discussion-forum-answers/create HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/users/discussion-forum-answers/create
+"POST /corpLearn/users/discussion-forum-answers/create HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/users/11
+"GET /corpLearn/users/11 HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/users/11
+"GET /corpLearn/users/11 HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/users/11
+"GET /corpLearn/users/11 HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/users/11
+"GET /corpLearn/users/11 HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/courses/employee-courses/create
+"POST /corpLearn/courses/employee-courses/create HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/users/discussion-forum-questions/create
+"POST /corpLearn/users/discussion-forum-questions/create HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/users/discussion-forums/ENPM665
+"GET /corpLearn/users/discussion-forums/ENPM665 HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/users/discussion-forums/ENPM665
+"GET /corpLearn/users/discussion-forums/ENPM665 HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/users/discussion-forum-questions/create
+"POST /corpLearn/users/discussion-forum-questions/create HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/users/discussion-forums/ENPM665
+"GET /corpLearn/users/discussion-forums/ENPM665 HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/users/discussion-forums/ENPM665
+"GET /corpLearn/users/discussion-forums/ENPM665 HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/users/discussion-forums/ENPM665
+"GET /corpLearn/users/discussion-forums/ENPM665 HTTP/1.1" 500 33
+Internal Server Error: /corpLearn/users/discussion-forums/ENPM665
+"GET /corpLearn/users/discussion-forums/ENPM665 HTTP/1.1" 500 33
