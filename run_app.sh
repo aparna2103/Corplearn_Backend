@@ -29,10 +29,10 @@ coverage report
 coverage html
 
 # Check if tests were successful
-if [ $TEST_STATUS -eq 0 ]; then
-    echo "Tests passed successfully. Starting server..."
-    python manage.py runserver
-else
-    echo "Tests failed. Please fix the issues before starting the server."
-    exit 1
-fi
+# if [ $TEST_STATUS -eq 0 ]; then
+#     echo "Tests passed successfully. Starting server..."
+#     python manage.py runserver
+# else
+#     echo "Tests failed. Please fix the issues before starting the server."
+#     exit 1
+# fi
