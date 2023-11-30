@@ -1,22 +1,22 @@
 #!/bin/bash
 
-# Define the directory for the virtual environment
-# VENV_DIR="myenv"
+Define the directory for the virtual environment
+VENV_DIR="myenv"
 
-# # Check if the virtual environment directory exists, if not, create one
-# if [ ! -d "$VENV_DIR" ]; then
-#     python3 -m venv $VENV_DIR
-#     echo "Virtual environment created."
-# fi
+# Check if the virtual environment directory exists, if not, create one
+if [ ! -d "$VENV_DIR" ]; then
+    python3 -m venv $VENV_DIR
+    echo "Virtual environment created."
+fi
 
-# # Activate the virtual environment
-# source $VENV_DIR/bin/activate
+# Activate the virtual environment
+source $VENV_DIR/bin/activate
 
-# # Install dependencies from requirements.txt
-# pip install -r requirements.txt
+# Install dependencies from requirements.txt
+pip install -r requirements.txt
 
-# Apply migrations
-# python manage.py migrate
+Apply migrations
+python manage.py migrate
 
 # Running the tests with coverage
 echo "Running tests with coverage..."
@@ -28,11 +28,11 @@ TEST_STATUS=$?
 coverage report
 coverage html
 
-# Check if tests were successful
-# if [ $TEST_STATUS -eq 0 ]; then
-#     echo "Tests passed successfully. Starting server..."
-#     python manage.py runserver
-# else
-#     echo "Tests failed. Please fix the issues before starting the server."
-#     exit 1
-# fi
+Check if tests were successful
+if [ $TEST_STATUS -eq 0 ]; then
+    echo "Tests passed successfully. Starting server..."
+    python manage.py runserver
+else
+    echo "Tests failed. Please fix the issues before starting the server."
+    exit 1
+fi
